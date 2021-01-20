@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/worm/workspace/git/gorm-fiber-crud/service'
+let g:netrw_dirhist_2='/home/worm/workspace/git/tinolabs/tinofy-gql-server/graph/model'
+let g:netrw_dirhist_3='/home/worm/workspace/git/golang-rest-api/utils'
+let g:netrw_dirhist_4='/home/worm/workspace/git/microservices/model'
+let g:netrw_dirhist_5='/home/worm/workspace/git/go-http-rest-clean/pkg/product'
+let g:netrw_dirhist_6='/home/worm/workspace/golang/microservices/handler'
+let g:netrw_dirhist_7='/home/worm/workspace/golang/shippy/first'
+let g:netrw_dirhist_8='/home/worm/workspace/golang/shippy/service-consignment/proto/consignment'
+let g:netrw_dirhist_9='/home/worm/workspace/git/roblesok/healty-svc/middleware'
