@@ -1,0 +1,9 @@
+alias top=htop
+alias snap="sudo snap"
+alias reboot="sudo reboot"
+alias upgrade="sudo pacman -Syu"
+alias h=history
+alias j="jobs -l"
+alias ping="ping -c3"
+alias df="df -H"
+alias meminfo="free -m -l -t"
