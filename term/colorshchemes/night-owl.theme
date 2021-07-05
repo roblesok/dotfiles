@@ -1,0 +1,9 @@
+[Scheme]
+Name=NightOwl
+ColorCursor=#d6deeb
+ColorForeground=#d6deeb
+ColorBackground=#011627
+TabActivityColor=#88C0D0
+ColorPalette=#011627;#EF5350;#22da6e;#addb67;#82aaff;#c792ea;#21c7a8;#ffffff;#575656;#ef5350;#22da6e;#ffeb95;#82aaff;#c792ea;#7fdbca;#ffffff
+ColorBold=#D8DEE9
+ColorBoldUseDefault=FALSE
