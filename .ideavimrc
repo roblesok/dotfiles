@@ -1,0 +1,36 @@
+" Set mapleader
+let mapleader = ","
+
+" Errors
+nmap dn :action GotoNextError<CR>
+nmap dp :action GotoPreviousError<CR>
+
+" Navigation
+nmap fd :action GotoFile<CR>
+nmap ff :action RecentFiles<CR>
+nmap <C-o> :action Back<CR>
+nmap gd :action GotoDeclaration<CR>
+nmap fp :action FileStructurePopup<CR>
+
+" Movments
+nmap <C-p> :action MoveLineUp<CR>
+nmap <C-n> :action MoveLineDown<CR>
+
+" Search
+nmap <leader>/ :action Find<CR>
+
+" Tabs
+nmap bn :action NextTab<CR>
+nmap bp :action PreviousTab<CR>
+nmap bd :action CloseContent<CR>
+
+" Reformat 
+nmap <leader>ff :action ReformatCode<CR>
+
+" Refactor
+vmap R :action Refactorings.QuickListPopupAction<CR>
+nmap <space>rn :action RenameElement<CR>
+nmap <space>rg :action Generate<CR>
+
+" Documentation
+nmap K :action QuickJavaDoc<CR>
